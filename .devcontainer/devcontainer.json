@@ -12,6 +12,21 @@
         "GitHub.copilot-chat",
         "ritwickdey.LiveServer"
       ]
+    },
+    "codespaces": {
+      "repositories": {
+        "hackathon-green-horse-37/GH-AgenticWorkflows-DEVTO": {
+          "permissions": {
+            "actions": "write",
+            "checks": "write",
+            "contents": "write",
+            "discussions": "write",
+            "issues": "write",
+            "pull_requests": "write",
+            "workflows": "write"
+          }
+        }
+      }
     }
   }
 }
